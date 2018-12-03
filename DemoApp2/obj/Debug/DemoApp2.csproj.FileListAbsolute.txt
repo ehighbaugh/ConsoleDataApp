@@ -1,0 +1,10 @@
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\bin\Debug\DemoApp2.exe.config
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\bin\Debug\DemoApp2.exe
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\bin\Debug\DemoApp2.pdb
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\obj\Debug\DemoApp2.csprojAssemblyReference.cache
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\obj\Debug\DemoApp2.Form1.resources
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\obj\Debug\DemoApp2.Properties.Resources.resources
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\obj\Debug\DemoApp2.csproj.GenerateResource.cache
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\obj\Debug\DemoApp2.csproj.CoreCompileInputs.cache
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\obj\Debug\DemoApp2.exe
+C:\Users\HP 17.3 INCH\source\repos\DemoApp2\DemoApp2\obj\Debug\DemoApp2.pdb
